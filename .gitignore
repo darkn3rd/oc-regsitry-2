@@ -1,0 +1,9 @@
+.idea
+node_modules
+.DS_Store
+.npmrc
+npm-debug.log
+package-lock.json
+.vscode
+npm-debug.log.**
+.config/*
