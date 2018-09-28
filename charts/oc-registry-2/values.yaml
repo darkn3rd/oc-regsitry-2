@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 replicaCount: 1
 image:
-  repository: draft
-  tag: dev
+  repository: 10.63.253.24:5000/darkn3rd/oc-registry-2
+  tag: 0.0.1
   pullPolicy: IfNotPresent
 service:
   name: oc-registry-2
